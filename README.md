@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mateus%20Rebouças&fontSize=70&animation=fadeIn" />
 </div>
 
-### 🔬 Químico em formação | 💻 Dev Fullstack | 🤖 IA & Automação
+### 🔬 Cientista da Computação | 💻 Dev Fullstack | 🤖 IA & Automação
 
 Sou um entusiasta da **intersecção entre Ciência de Materiais e Tecnologia**. Minha trajetória foca em utilizar a programação e a Inteligência Artificial para otimizar processos analíticos e desenvolver soluções sustentáveis para a indústria.
 
