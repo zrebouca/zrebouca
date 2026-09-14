@@ -10,7 +10,6 @@ Sou um entusiasta da **intersecção entre Ciência de Materiais e Tecnologia**.
 
 ## ⚡ Skills & Destaques
 
-- 🧪 **Research & Development:** Especialista em bioadsorventes e tratamento de efluentes (Óleo & Gás).
 - 🧠 **Data & IA:** Desenvolvimento de modelos preditivos e automações web de alto impacto.
 - 👔 **Agile Leadership:** Experiência como Scrum Master em projetos multidisciplinares.
 - 🛠️ **Sistemas Embarcados:** Integração hardware/software com foco em Robótica e IoT.
@@ -42,8 +41,8 @@ Sou um entusiasta da **intersecção entre Ciência de Materiais e Tecnologia**.
 
 | Projeto | Especialidade | Status |
 | :--- | :--- | :--- |
-| **🤖 IA Médica** | Inteligência Artificial / Python | `Em Desenvolvimento` |
-| **🌿 Bioadsorventes** | Sustentabilidade / Pesquisa | `Em Desenvolvimento` |
+| **🤖 IA RH** | Inteligência Artificial / Python | `Concluído` |
+| **🌿 Plataforme de Capacitação Linguística** | Idiomas / Treinamento | `Concluída` |
 | **📊 Dashboard Evasão** | Data Analytics / BI | `Concluído` |
 | **🔌 Lab Robótica** | Automação / Arduino | `Ativo` |
 
