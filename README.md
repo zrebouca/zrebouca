@@ -1,64 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Mateus%20Rebouças&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20de%20Materiais%20%2B%20Código%20%2B%20IA&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Mateus%20Rebouças&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=18" />
 
 <a href="https://linkedin.com/in/mateusreboucas08">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cientista+da+Computa%C3%A7%C3%A3o;Dev+Fullstack+%26+Automa%C3%A7%C3%A3o;Construindo+ferramentas+de+IA+aplicada;Ex-Materiais%2C+sempre+curioso&font=Fira+Code&center=true&width=520&height=45&color=22D3EE&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Scientist;Fullstack+Developer+%26+Automation;Building+applied+AI+tools;Agile+leadership+%2B+hands-on+code&font=Fira+Code&center=true&width=520&height=45&color=22D3EE&vCenter=true&size=22" />
 </a>
 
 </div>
 
 <br>
 
-## 🧪 Do laboratório para o terminal
+## 👋 About me
 
-Comecei estudando **como a matéria se comporta**. Hoje escrevo código para entender **como as pessoas e os processos se comportam** — e uso os dois olhares no mesmo projeto: rigor de quem testa hipótese, e velocidade de quem shippa em produção.
+I build **internal AI and automation tools** that solve real operational problems — not portfolio demos, tools that teams actually use every day. That means anything from gamified team training platforms, to analytics dashboards that drive real decisions, to assistants that take repetitive administrative work off managers' plates.
 
-Na prática, isso significa construir **ferramentas internas de IA e automação** que resolvem problemas reais de operação: desde treinamento gamificado de equipes até dashboards que viram decisão, passando por assistentes que tiram trabalho burocrático repetitivo das mãos de gestores.
-
-python
-class Mateus:
-    def __init__(self):
-        self.formacao   = "Ciência da Computação"
-        self.raizes     = "Ciência de Materiais"
-        self.stack      = ["Python", "JavaScript", "PHP", "MySQL", "Linux"]
-        self.lideranca  = "Scrum Master em projetos multidisciplinares"
-        self.hardware   = ["Arduino", "IoT", "Robótica"]
-        self.modo_atual = "construindo > estudando > repetindo"
-
-    def __repr__(self):
-        return "sempre no cruzamento entre engenharia, dados e pessoas"
+I also bring an **Agile leadership** background as a Scrum Master on multidisciplinary projects, so I care as much about how a team ships as about what gets shipped.
 
 <br>
 
-## ⚡ O que eu faço melhor
+## ⚡ What I do best
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 IA & Automação
-Modelos preditivos, agentes conversacionais e automações web que tiram trabalho manual de dentro de operações reais — não protótipos de portfólio, ferramentas que times usam todo dia.
+### 🤖 AI & Automation
+Predictive models, conversational agents, and web automations that remove manual work from real operations.
 
 </td>
 <td width="50%" valign="top">
 
-### 👔 Liderança Ágil
-Scrum Master em projetos multidisciplinares — traduzo entre time técnico e stakeholder, e mantenho entregas incrementais sem perder o rigor do processo.
+### 👔 Agile Leadership
+Scrum Master on multidisciplinary projects — bridging technical teams and stakeholders while keeping incremental delivery on track.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Hardware & Sistemas Embarcados
-Integração hardware/software com foco em robótica e IoT — porque nem todo problema se resolve só com software.
+### 🛠️ Embedded Systems
+Hardware/software integration with a focus on robotics and IoT — because not every problem is solved with software alone.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Dados que viram decisão
-Dashboards e análises que existem para responder uma pergunta de negócio específica, não para encher relatório.
+### 📊 Data That Drives Decisions
+Dashboards and analysis built to answer a specific business question, not to fill a report.
 
 </td>
 </tr>
@@ -66,11 +53,11 @@ Dashboards e análises que existem para responder uma pergunta de negócio espec
 
 <br>
 
-## 🧰 Ecossistema Tecnológico
+## 🧰 Tech Ecosystem
 
 <div align="center">
 
-**Software & IA**
+**Software & AI**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -80,7 +67,7 @@ Dashboards e análises que existem para responder uma pergunta de negócio espec
 
 <br><br>
 
-**Hardware, Design & Fluxo de Trabalho**
+**Hardware, Design & Workflow**
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
@@ -92,40 +79,40 @@ Dashboards e análises que existem para responder uma pergunta de negócio espec
 
 <br>
 
-## 🚀 Projetos Estratégicos
+## 🚀 Strategic Projects
 
 <details open>
-<summary><b>🤖 Assistente de IA para RH</b> — Python · Agentes conversacionais · <code>Concluído</code></summary>
+<summary><b>🤖 AI HR Assistant</b> — Python · Conversational Agents · <code>Completed</code></summary>
 <br>
 
-Assistente de IA para automatizar fluxos burocráticos de gestão de pessoas, com guardrails de compliance embutidos por design.
-> 🔒 Projeto de uso interno/confidencial — repositório privado, sem link público.
+AI assistant that automates bureaucratic people-management workflows, with compliance guardrails built in by design.
+> 🔒 Internal/confidential project — private repository, no public link.
 </details>
 
 <details>
-<summary><b>🌿 Plataforma de Capacitação Linguística</b> — Gamificação · Treinamento · <code>Concluída</code></summary>
+<summary><b>🌿 Language Training Platform</b> — Gamification · Training · <code>Completed</code></summary>
 <br>
 
-Plataforma de aprendizado de idiomas com trilha gamificada (XP, streaks, conquistas), voltada para contextos profissionais reais.
+Gamified language-learning platform (XP, streaks, achievements) built for real-world professional contexts.
 </details>
 
 <details>
-<summary><b>📊 Dashboard de Evasão</b> — Data Analytics · BI · <code>Concluído</code></summary>
+<summary><b>📊 Attrition Dashboard</b> — Data Analytics · BI · <code>Completed</code></summary>
 <br>
 
-Painel analítico para identificar padrões de evasão e apoiar decisões orientadas a dados.
+Analytics dashboard for identifying attrition patterns and supporting data-driven decisions.
 </details>
 
 <details>
-<summary><b>🔌 Lab de Robótica</b> — Automação · Arduino · IoT · <code>Ativo</code></summary>
+<summary><b>🔌 Robotics Lab</b> — Automation · Arduino · IoT · <code>Active</code></summary>
 <br>
 
-Laboratório de experimentação contínua em integração hardware/software — onde o "de materiais para tecnologia" fica mais literal.
+An ongoing hardware/software integration lab — continuous experimentation with robotics and IoT.
 </details>
 
 <br>
 
-## 📈 GitHub em números
+## 📈 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zrebouca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -136,18 +123,17 @@ Laboratório de experimentação contínua em integração hardware/software —
 <img src="https://streak-stats.demolab.com/?user=zrebouca&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
+## 🎯 Currently
+
+- 🔭 Deepening applied AI for operations and process automation
+- 🌱 Exploring the intersection of hardware (IoT/robotics) and decision-driving software
+- 🤝 Open to talking about internal tooling, automation, and agile leadership
 
 <br>
 
-## 🎯 Agora
-
-- 🔭 Aprofundando IA aplicada a operações e automação de processos
-- 🌱 Explorando a fronteira entre hardware (IoT/robótica) e software de decisão
-- 🤝 Aberto a conversar sobre ferramentas internas, automação e liderança ágil
-
-<br>
-
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/mateusreboucas08" target="_blank">
