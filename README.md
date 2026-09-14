@@ -16,7 +16,7 @@ Comecei estudando **como a matéria se comporta**. Hoje escrevo código para ent
 
 Na prática, isso significa construir **ferramentas internas de IA e automação** que resolvem problemas reais de operação: desde treinamento gamificado de equipes até dashboards que viram decisão, passando por assistentes que tiram trabalho burocrático repetitivo das mãos de gestores.
 
-```python
+python
 class Mateus:
     def __init__(self):
         self.formacao   = "Ciência da Computação"
@@ -28,7 +28,6 @@ class Mateus:
 
     def __repr__(self):
         return "sempre no cruzamento entre engenharia, dados e pessoas"
-```
 
 <br>
 
@@ -129,15 +128,14 @@ Laboratório de experimentação contínua em integração hardware/software —
 ## 📈 GitHub em números
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zrebouca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrebouca&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=zrebouca&theme=tokyonight&hide_border=true" />
 </div>
 
-> 💡 Troque `SEU_USUARIO` pelo seu usuário do GitHub nos três links acima — é o único ajuste manual necessário.
 
 <br>
 
