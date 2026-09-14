@@ -1,9 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Mateus%20Rebouças&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Mateus%20Reboucas&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Dev%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
+
+<h1 align="center">Mateus Rebouças</h1>
+<h3 align="center">Computer Scientist · Fullstack Developer · AI & Automation</h3>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/mateusreboucas08">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Scientist;Fullstack+Developer+%26+Automation;Building+applied+AI+tools;Agile+leadership+%2B+hands-on+code&font=Fira+Code&center=true&width=520&height=45&color=22D3EE&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+applied+AI+tools;Fullstack+%2B+Automation;Agile+leadership+%2B+hands-on+code&font=Fira+Code&center=true&width=480&height=40&color=22D3EE&vCenter=true&size=20" />
 </a>
 
 </div>
@@ -151,4 +158,4 @@ An ongoing hardware/software integration lab — continuous experimentation with
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
